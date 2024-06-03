@@ -2,8 +2,6 @@
 1. Copy all the contents from this repository.
 2. Open the CMSC125MP2.java file using an IDE, like NetBeans or Eclipse.
 3. Run the CMSC125MP2.java file
-   - Upon running the file, the program should automatically display a menu consisting of the basic CRUD functionality (refer to the preview section below).
-3. Run the CMSC125MP2.java file
    - Upon running the file, the program should prompt you to select a certain method to be used, either RSA (Rivest–Shamir–Adleman) for encryption/decryption or SHA-1 (Secure Hash Algorithm) for hashing, and when you are done simply input 'exit' to leave the program.
 
 ## Core Concept
